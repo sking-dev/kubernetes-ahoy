@@ -12,7 +12,8 @@ To this end, I'll look for a "mini project" or meaningful tutorial(s) to serve a
 
 - [Get started with Docker remote containers on WSL 2](https://docs.microsoft.com/en-us/windows/wsl/tutorials/wsl-containers)
   - I want to make sure that I can work with Docker containers under WSL using VS Code
-    - I'm currently running WSL 1 and it looks like I'll need to switch to running WSL 2 to get support for Docker...
+    - I'm currently running WSL 1 and it looks like I'll need to switch to running WSL 2 to get support for Docker
+      - My somewhat long and winding road to [switching from WSL1 to WSL 2](Switch-Distribution-from-WSL-1-to-WSL-2.md)
 - [Tutorial: Create and share a Docker app with Visual Studio Code](https://docs.microsoft.com/en-us/visualstudio/docker/tutorials/docker-tutorial)
 - [Use a Docker container as a development environment with Visual Studio Code](https://docs.microsoft.com/en-us/learn/modules/use-docker-container-dev-env-vs-code/)
 - [A crash course on Docker - Ramp up on Docker in minutes via a lightning quick, hands-on crash course where you learn by doing](https://blog.gruntwork.io/a-crash-course-on-docker-34073b9e1833)
