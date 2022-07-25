@@ -119,7 +119,7 @@ So...  The way forward appears to be blocked for reasons as yet unknown.
 
 Time for a "Plan B"!
 
-SPOILER: I did end up getting the conversion to work so [click here](#hang-on-i-got-the-conversion-to-work) to cut to the chase!
+SPOILER: I did end up getting the conversion to work so [click here](##a-happy-ending) to cut to the chase!
 
 ----
 
@@ -155,7 +155,9 @@ It may have to come to this, but I don't really want to lose my existing Ubuntu 
 
 ----
 
-## Hang On!  I Got the Conversion to Work
+## A Happy Ending
+
+### I Got the Conversion to Work
 
 The following article helped me to (eventually) see the light!
 
@@ -163,7 +165,7 @@ The following article helped me to (eventually) see the light!
 
 My suspicion was right: the missing piece of the puzzle wasn't in the Windows OS, it was in the properties of the VMware-hosted VM.
 
-![Enable nested virtualisation](VMware-VM-Enable-Virtualisation.jpg)
+![This is the setting to enable nested virtualisation for a VMware-hosted VM](vmware-vm-enable-virtualisation.jpg)
 
 After this setting was enabled, I tried the WSL 1 to WSL 2 conversion process again and it worked.  Hooray!
 
