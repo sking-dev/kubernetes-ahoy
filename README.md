@@ -48,5 +48,6 @@ Caveat: many of the links below have been added on the basis of, "hmmm, this cou
 - [The Docker & Kubernetes Magazine](https://flipboard.com/@dwahlin/the-docker-kubernetes-magazine-vp93fvnrz)
 - [Kubernetes at Scale without GitOps Is a Bad Idea](https://thenewstack.io/kubernetes-at-scale-without-gitops-is-a-bad-idea/)
 - [Kubernetes The Hard Way - GCP](https://github.com/kelseyhightower/kubernetes-the-hard-way)
+- [KubeSkills Community](https://community.kubeskills.com/home)
 - [Learning Containers, Kubernetes, and Backend Development with Ivan Velichko](https://iximiuz.com/en/)
 - [Resources for Getting Started with Kubernetes](https://vsupalov.com/getting-started-with-kubernetes/)
